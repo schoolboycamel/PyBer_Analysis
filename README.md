@@ -10,7 +10,7 @@ Rural cities have the least demand, and as well as the least supplt of drivers a
 From this combined box-and-whisker plots, we can understand that the avg fare for rides in the rural cities is higher than the avg cost per ride in suburban and urban areas.  The reason may be because there is not enough supply for the demand in the given rural areas
 
 # As a result, we can understand that:
-1. Urban areas has the highets demand and supply amongst all three city types 
-2. Rural areas have a higher fare cost, as well as a higher driver count 
-3. Recommendations include hiring more drivers in order to meet rural rider demand. This may be beacause distances may prolongate ride time, thus less available drivers. 
+1. Urban areas have the highest demand and supply amongst all three city types 
+2. Rural areas have a higher fare cost, as well as a higher driver count.
+4. Recommendations include hiring more drivers in order to meet rural rider demand. This may be beacause distances may prolongate ride time, thus less available drivers. 
 
